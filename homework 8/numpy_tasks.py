@@ -15,8 +15,8 @@ import random
 # print("Task 3:", arr3)
 
 # Task 4
-matrix1 = np.arange(9).reshape(3, 3)
-print("Task 4:\n", matrix1)
+# matrix1 = np.arange(9).reshape(3, 3)
+# print("Task 4:\n", matrix1)
 
 # Task 5
 # arr4 = np.array([1, 2, 0, 0, 4, 0])
