@@ -1,0 +1,106 @@
+CurrencyKey,CurrencyAlternateKey,CurrencyName
+1.0,AFA,Afghani
+2.0,DZD,Algerian Dinar
+3.0,ARS,Argentine Peso
+4.0,AMD,Armenian Dram
+5.0,AWG,Aruban Guilder
+6.0,AUD,Australian Dollar
+7.0,AZM,Azerbaijanian Manat
+8.0,BSD,Bahamian Dollar
+9.0,BHD,Bahraini Dinar
+10.0,THB,Baht
+11.0,PAB,Balboa
+12.0,BBD,Barbados Dollar
+13.0,BEF,Belgian Franc
+14.0,VEB,Bolivar
+15.0,BOB,Boliviano
+16.0,BRL,Brazilian Real
+17.0,BND,Brunei Dollar
+18.0,BGN,Bulgarian Lev
+19.0,CAD,Canadian Dollar
+20.0,GHC,Cedi
+21.0,XOF,CFA Franc BCEAO
+22.0,CLP,Chilean Peso
+23.0,COP,Colombian Peso
+24.0,CRC,Costa Rican Colon
+25.0,HRK,Croatian Kuna
+26.0,CYP,Cyprus Pound
+27.0,CZK,Czech Koruna
+28.0,DKK,Danish Krone
+29.0,DEM,Deutsche Mark
+30.0,DOP,Dominican Peso
+31.0,VND,Dong
+32.0,GRD,Drachma
+33.0,EGP,Egyptian Pound
+34.0,SVC,El Salvador Colon
+35.0,AED,Emirati Dirham
+36.0,EUR,EURO
+37.0,FJD,Fiji Dollar
+38.0,HUF,Forint
+39.0,FRF,French Franc
+40.0,PYG,Guarani
+41.0,HKD,Hong Kong Dollar
+42.0,ISK,Iceland Krona
+43.0,INR,Indian Rupee
+44.0,IEP,Irish Pound
+45.0,ITL,Italian Lira
+46.0,JMD,Jamaican Dollar
+47.0,JOD,Jordanian Dinar
+48.0,KES,Kenyan Shilling
+49.0,EEK,Kroon
+50.0,KWD,Kuwaiti Dinar
+51.0,AOA,Kwanza
+52.0,LVL,Latvian Lats
+53.0,LBP,Lebanese Pound
+54.0,ALL,Lek
+55.0,ROL,Leu
+56.0,LTL,Lithuanian Litas
+57.0,MYR,Malaysian Ringgit
+58.0,MTL,Maltese Lira
+59.0,FIM,Markka
+60.0,MUR,Mauritius Rupee
+61.0,MXN,Mexican Peso
+62.0,MAD,Moroccan Dirham
+63.0,NGN,Naira
+64.0,NAD,Namibia Dollar
+65.0,NPR,Nepalese Rupee
+66.0,ANG,Netherlands Antillian Guilder
+67.0,NLG,Netherlands Guilder
+68.0,ILS,New Israeli Shekel
+69.0,TWD,New Taiwan Dollar
+70.0,NZD,New Zealand Dollar
+71.0,BTN,Ngultrum
+72.0,NOK,Norwegian Krone
+73.0,PEN,Nuevo Sol
+74.0,OMR,Omani Rial
+75.0,PKR,Pakistan Rupee
+76.0,PHP,Philippine Peso
+77.0,PLZ,Polish Zloty(old)
+78.0,PTE,Portuguese Escudo
+79.0,GTQ,Quetzal
+80.0,ZAR,Rand
+81.0,MVR,Rufiyaa
+82.0,IDR,Rupiah
+83.0,RUB,Russian Ruble
+84.0,RUR,Russian Ruble(old)
+85.0,SAR,Saudi Riyal
+86.0,ATS,Shilling
+87.0,SGD,Singapore Dollar
+88.0,SKK,Slovak Koruna
+89.0,ESP,Spanish Peseta
+90.0,LKR,Sri Lankan Rupee
+91.0,SEK,Swedish Krona
+92.0,CHF,Swiss Franc
+93.0,BDT,Taka
+94.0,SIT,Tolar
+95.0,TTD,Trinidad and Tobago Dollar
+96.0,TND,Tunisian Dinar
+97.0,TRL,Turkish Lira
+98.0,GBP,United Kingdom Pound
+99.0,UYU,Uruguayan Peso
+100.0,USD,US Dollar
+101.0,KRW,Won
+102.0,JPY,Yen
+103.0,CNY,Yuan Renminbi
+104.0,ZWD,Zimbabwe Dollar
+105.0,PLN,Zloty

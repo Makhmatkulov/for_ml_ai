@@ -1,0 +1,607 @@
+ProductKey,ProductAlternateKey,EnglishProductName,SpanishProductName,Color,ListPrice,Size,Weight,DaysToManufacture,Status
+1.0,AR-5381,Adjustable Race,,,,,,0.0,Current
+2.0,BA-8327,Bearing Ball,,,,,,0.0,Current
+3.0,BE-2349,BB Ball Bearing,,,,,,1.0,Current
+4.0,BE-2908,Headset Ball Bearings,,,,,,0.0,Current
+5.0,BL-2036,Blade,,,,,,1.0,Current
+6.0,CA-5965,LL Crankarm,,Black,,,,0.0,Current
+7.0,CA-6738,ML Crankarm,,Black,,,,0.0,Current
+8.0,CA-7457,HL Crankarm,,Black,,,,0.0,Current
+9.0,CB-2903,Chainring Bolts,,Silver,,,,0.0,Current
+10.0,CN-6137,Chainring Nut,,Silver,,,,0.0,Current
+11.0,CR-7833,Chainring,,Black,,,,0.0,Current
+12.0,CR-9981,Crown Race,,,,,,0.0,Current
+13.0,CS-2812,Chain Stays,,,,,,1.0,Current
+14.0,DC-8732,Decal 1,,,,,,0.0,Current
+15.0,DC-9824,Decal 2,,,,,,0.0,Current
+16.0,DT-2377,Down Tube,,,,,,1.0,Current
+17.0,EC-M092,Mountain End Caps,,,,,,1.0,Current
+18.0,EC-R098,Road End Caps,,,,,,1.0,Current
+19.0,EC-T209,Touring End Caps,,,,,,1.0,Current
+20.0,FE-3760,Fork End,,,,,,1.0,Current
+21.0,FH-2981,Freewheel,,Silver,,,,0.0,Current
+22.0,FW-1000,Flat Washer 1,,,,,,0.0,Current
+23.0,FW-1200,Flat Washer 6,,,,,,0.0,Current
+24.0,FW-1400,Flat Washer 2,,,,,,0.0,Current
+25.0,FW-3400,Flat Washer 9,,,,,,0.0,Current
+26.0,FW-3800,Flat Washer 4,,,,,,0.0,Current
+27.0,FW-5160,Flat Washer 3,,,,,,0.0,Current
+28.0,FW-5800,Flat Washer 8,,,,,,0.0,Current
+29.0,FW-7160,Flat Washer 5,,,,,,0.0,Current
+30.0,FW-9160,Flat Washer 7,,,,,,0.0,Current
+31.0,FC-3654,Fork Crown,,,,,,1.0,Current
+32.0,FC-3982,Front Derailleur Cage,,Silver,,,,0.0,Current
+33.0,FL-2301,Front Derailleur Linkage,,Silver,,,,0.0,Current
+34.0,GP-0982,Guide Pulley,,,,,,0.0,Current
+35.0,GT-0820,LL Grip Tape,,,,,,0.0,Current
+36.0,GT-1209,ML Grip Tape,,,,,,0.0,Current
+37.0,GT-2908,HL Grip Tape,,,,,,0.0,Current
+38.0,HJ-1213,Thin-Jam Hex Nut 9,,,,,,0.0,Current
+39.0,HJ-1220,Thin-Jam Hex Nut 10,,,,,,0.0,Current
+40.0,HJ-1420,Thin-Jam Hex Nut 1,,,,,,0.0,Current
+41.0,HJ-1428,Thin-Jam Hex Nut 2,,,,,,0.0,Current
+42.0,HJ-3410,Thin-Jam Hex Nut 15,,,,,,0.0,Current
+43.0,HJ-3416,Thin-Jam Hex Nut 16,,,,,,0.0,Current
+44.0,HJ-3816,Thin-Jam Hex Nut 5,,,,,,0.0,Current
+45.0,HJ-3824,Thin-Jam Hex Nut 6,,,,,,0.0,Current
+46.0,HJ-5161,Thin-Jam Hex Nut 3,,,,,,0.0,Current
+47.0,HJ-5162,Thin-Jam Hex Nut 4,,,,,,0.0,Current
+48.0,HJ-5811,Thin-Jam Hex Nut 13,,,,,,0.0,Current
+49.0,HJ-5818,Thin-Jam Hex Nut 14,,,,,,0.0,Current
+50.0,HJ-7161,Thin-Jam Hex Nut 7,,,,,,0.0,Current
+51.0,HJ-7162,Thin-Jam Hex Nut 8,,,,,,0.0,Current
+52.0,HJ-9080,Thin-Jam Hex Nut 12,,,,,,0.0,Current
+53.0,HJ-9161,Thin-Jam Hex Nut 11,,,,,,0.0,Current
+54.0,HN-1024,Hex Nut 5,,,,,,0.0,Current
+55.0,HN-1032,Hex Nut 6,,,,,,0.0,Current
+56.0,HN-1213,Hex Nut 16,,,,,,0.0,Current
+57.0,HN-1220,Hex Nut 17,,,,,,0.0,Current
+58.0,HN-1224,Hex Nut 7,,,,,,0.0,Current
+59.0,HN-1420,Hex Nut 8,,,,,,0.0,Current
+60.0,HN-1428,Hex Nut 9,,,,,,0.0,Current
+61.0,HN-3410,Hex Nut 22,,,,,,0.0,Current
+62.0,HN-3416,Hex Nut 23,,,,,,0.0,Current
+63.0,HN-3816,Hex Nut 12,,,,,,0.0,Current
+64.0,HN-3824,Hex Nut 13,,,,,,0.0,Current
+65.0,HN-4402,Hex Nut 1,,,,,,0.0,Current
+66.0,HN-5161,Hex Nut 10,,,,,,0.0,Current
+67.0,HN-5162,Hex Nut 11,,,,,,0.0,Current
+68.0,HN-5400,Hex Nut 2,,,,,,0.0,Current
+69.0,HN-5811,Hex Nut 20,,,,,,0.0,Current
+70.0,HN-5818,Hex Nut 21,,,,,,0.0,Current
+71.0,HN-6320,Hex Nut 3,,,,,,0.0,Current
+72.0,HN-7161,Hex Nut 14,,,,,,0.0,Current
+73.0,HN-7162,Hex Nut 15,,,,,,0.0,Current
+74.0,HN-8320,Hex Nut 4,,,,,,0.0,Current
+75.0,HN-9161,Hex Nut 18,,,,,,0.0,Current
+76.0,HN-9168,Hex Nut 19,,,,,,0.0,Current
+77.0,HT-2981,Handlebar Tube,,,,,,1.0,Current
+78.0,HT-8019,Head Tube,,,,,,1.0,Current
+79.0,HU-6280,LL Hub,,,,,,1.0,Current
+80.0,HU-8998,HL Hub,,,,,,1.0,Current
+81.0,KW-4091,Keyed Washer,,,,,,0.0,Current
+82.0,LE-1000,External Lock Washer 3,,,,,,0.0,Current
+83.0,LE-1200,External Lock Washer 4,,,,,,0.0,Current
+84.0,LE-1201,External Lock Washer 9,,,,,,0.0,Current
+85.0,LE-1400,External Lock Washer 5,,,,,,0.0,Current
+86.0,LE-3800,External Lock Washer 7,,,,,,0.0,Current
+87.0,LE-5160,External Lock Washer 6,,,,,,0.0,Current
+88.0,LE-6000,External Lock Washer 1,,,,,,0.0,Current
+89.0,LE-7160,External Lock Washer 8,,,,,,0.0,Current
+90.0,LE-8000,External Lock Washer 2,,,,,,0.0,Current
+91.0,LI-1000,Internal Lock Washer 3,,,,,,0.0,Current
+92.0,LI-1200,Internal Lock Washer 4,,,,,,0.0,Current
+93.0,LI-1201,Internal Lock Washer 9,,,,,,0.0,Current
+94.0,LI-1400,Internal Lock Washer 5,,,,,,0.0,Current
+95.0,LI-3800,Internal Lock Washer 7,,,,,,0.0,Current
+96.0,LI-5160,Internal Lock Washer 6,,,,,,0.0,Current
+97.0,LI-5800,Internal Lock Washer 10,,,,,,0.0,Current
+98.0,LI-6000,Internal Lock Washer 1,,,,,,0.0,Current
+99.0,LI-7160,Internal Lock Washer 8,,,,,,0.0,Current
+100.0,LI-8000,Internal Lock Washer 2,,,,,,0.0,Current
+101.0,LJ-1213,Thin-Jam Lock Nut 9,,,,,,0.0,Current
+102.0,LJ-1220,Thin-Jam Lock Nut 10,,,,,,0.0,Current
+103.0,LJ-1420,Thin-Jam Lock Nut 1,,,,,,0.0,Current
+104.0,LJ-1428,Thin-Jam Lock Nut 2,,,,,,0.0,Current
+105.0,LJ-3410,Thin-Jam Lock Nut 15,,,,,,0.0,Current
+106.0,LJ-3416,Thin-Jam Lock Nut 16,,,,,,0.0,Current
+107.0,LJ-3816,Thin-Jam Lock Nut 5,,,,,,0.0,Current
+108.0,LJ-3824,Thin-Jam Lock Nut 6,,,,,,0.0,Current
+109.0,LJ-5161,Thin-Jam Lock Nut 3,,,,,,0.0,Current
+110.0,LJ-5162,Thin-Jam Lock Nut 4,,,,,,0.0,Current
+111.0,LJ-5811,Thin-Jam Lock Nut 13,,,,,,0.0,Current
+112.0,LJ-5818,Thin-Jam Lock Nut 14,,,,,,0.0,Current
+113.0,LJ-7161,Thin-Jam Lock Nut 7,,,,,,0.0,Current
+114.0,LJ-7162,Thin-Jam Lock Nut 8,,,,,,0.0,Current
+115.0,LJ-9080,Thin-Jam Lock Nut 12,,,,,,0.0,Current
+116.0,LJ-9161,Thin-Jam Lock Nut 11,,,,,,0.0,Current
+117.0,LN-1024,Lock Nut 5,,,,,,0.0,Current
+118.0,LN-1032,Lock Nut 6,,,,,,0.0,Current
+119.0,LN-1213,Lock Nut 16,,,,,,0.0,Current
+120.0,LN-1220,Lock Nut 17,,,,,,0.0,Current
+121.0,LN-1224,Lock Nut 7,,,,,,0.0,Current
+122.0,LN-1420,Lock Nut 8,,,,,,0.0,Current
+123.0,LN-1428,Lock Nut 9,,,,,,0.0,Current
+124.0,LN-3410,Lock Nut 22,,,,,,0.0,Current
+125.0,LN-3416,Lock Nut 23,,,,,,0.0,Current
+126.0,LN-3816,Lock Nut 12,,,,,,0.0,Current
+127.0,LN-3824,Lock Nut 13,,,,,,0.0,Current
+128.0,LN-4400,Lock Nut 1,,,,,,0.0,Current
+129.0,LN-5161,Lock Nut 10,,,,,,0.0,Current
+130.0,LN-5162,Lock Nut 11,,,,,,0.0,Current
+131.0,LN-5400,Lock Nut 2,,,,,,0.0,Current
+132.0,LN-5811,Lock Nut 20,,,,,,0.0,Current
+133.0,LN-5818,Lock Nut 21,,,,,,0.0,Current
+134.0,LN-6320,Lock Nut 3,,,,,,0.0,Current
+135.0,LN-7161,Lock Nut 14,,,,,,0.0,Current
+136.0,LN-7162,Lock Nut 15,,,,,,0.0,Current
+137.0,LN-8320,Lock Nut 4,,,,,,0.0,Current
+138.0,LN-9080,Lock Nut 19,,,,,,0.0,Current
+139.0,LN-9161,Lock Nut 18,,,,,,0.0,Current
+140.0,LR-2398,Lock Ring,,Silver,,,,0.0,Current
+141.0,LR-8520,Lower Head Race,,,,,,0.0,Current
+142.0,LW-1000,Lock Washer 4,,,,,,0.0,Current
+143.0,LW-1200,Lock Washer 5,,,,,,0.0,Current
+144.0,LW-1201,Lock Washer 10,,,,,,0.0,Current
+145.0,LW-1400,Lock Washer 6,,,,,,0.0,Current
+146.0,LW-3400,Lock Washer 13,,,,,,0.0,Current
+147.0,LW-3800,Lock Washer 8,,,,,,0.0,Current
+148.0,LW-4000,Lock Washer 1,,,,,,0.0,Current
+149.0,LW-5160,Lock Washer 7,,,,,,0.0,Current
+150.0,LW-5800,Lock Washer 12,,,,,,0.0,Current
+151.0,LW-6000,Lock Washer 2,,,,,,0.0,Current
+152.0,LW-7160,Lock Washer 9,,,,,,0.0,Current
+153.0,LW-8000,Lock Washer 3,,,,,,0.0,Current
+154.0,LW-9160,Lock Washer 11,,,,,,0.0,Current
+155.0,MA-7075,Metal Angle,,,,,,0.0,Current
+156.0,MB-2024,Metal Bar 1,,,,,,0.0,Current
+157.0,MB-6061,Metal Bar 2,,,,,,0.0,Current
+158.0,MP-2066,Metal Plate 2,,,,,,0.0,Current
+159.0,MP-2503,Metal Plate 1,,,,,,0.0,Current
+160.0,MP-4960,Metal Plate 3,,,,,,0.0,Current
+161.0,MS-0253,Metal Sheet 2,,,,,,0.0,Current
+162.0,MS-1256,Metal Sheet 3,,,,,,0.0,Current
+163.0,MS-1981,Metal Sheet 7,,,,,,0.0,Current
+164.0,MS-2259,Metal Sheet 4,,,,,,0.0,Current
+165.0,MS-2341,Metal Sheet 5,,,,,,0.0,Current
+166.0,MS-2348,Metal Sheet 6,,,,,,0.0,Current
+167.0,MS-6061,Metal Sheet 1,,,,,,0.0,Current
+168.0,MT-1000,Metal Tread Plate,,,,,,0.0,Current
+169.0,NI-4127,LL Nipple,,,,,,0.0,Current
+170.0,NI-9522,HL Nipple,,,,,,0.0,Current
+171.0,PA-187B,Paint - Black,,,,,,0.0,Current
+172.0,PA-361R,Paint - Red,,,,,,0.0,Current
+173.0,PA-529S,Paint - Silver,,,,,,0.0,Current
+174.0,PA-632U,Paint - Blue,,,,,,0.0,Current
+175.0,PA-823Y,Paint - Yellow,,,,,,0.0,Current
+176.0,PB-6109,Pinch Bolt,,,,,,0.0,Current
+177.0,RA-2345,Cup-Shaped Race,,,,,,0.0,Current
+178.0,RA-7490,Cone-Shaped Race,,,,,,0.0,Current
+179.0,RF-9198,Reflector,,,,,,0.0,Current
+180.0,RM-M464,LL Mountain Rim,,,,,435.0,0.0,Current
+181.0,RM-M692,ML Mountain Rim,,,,,450.0,0.0,Current
+182.0,RM-M823,HL Mountain Rim,,,,,400.0,0.0,Current
+183.0,RM-R436,LL Road Rim,,,,,445.0,0.0,Current
+184.0,RM-R600,ML Road Rim,,,,,450.0,0.0,Current
+185.0,RM-R800,HL Road Rim,,,,,400.0,0.0,Current
+186.0,RM-T801,Touring Rim,,,,,460.0,0.0,Current
+187.0,SA-M198,LL Mountain Seat Assembly,,,,,,1.0,Current
+188.0,SA-M237,ML Mountain Seat Assembly,,,,,,1.0,Current
+189.0,SA-M687,HL Mountain Seat Assembly,,,,,,1.0,Current
+190.0,SA-R127,LL Road Seat Assembly,,,,,,1.0,Current
+191.0,SA-R430,ML Road Seat Assembly,,,,,,1.0,Current
+192.0,SA-R522,HL Road Seat Assembly,,,,,,1.0,Current
+193.0,SA-T467,LL Touring Seat Assembly,,,,,,1.0,Current
+194.0,SA-T612,ML Touring Seat Assembly,,,,,,1.0,Current
+195.0,SA-T872,HL Touring Seat Assembly,,,,,,1.0,Current
+196.0,SD-2342,LL Spindle/Axle,,,,,,0.0,Current
+197.0,SD-9872,HL Spindle/Axle,,,,,,0.0,Current
+198.0,SH-4562,LL Shell,,,,,,0.0,Current
+199.0,SH-9312,HL Shell,,,,,,0.0,Current
+200.0,SK-9283,Spokes,,,,,,0.0,Current
+201.0,SL-0931,Seat Lug,,,,,,0.0,Current
+202.0,SM-9087,Stem,,,,,,1.0,Current
+203.0,SP-2981,Seat Post,,,,,,0.0,Current
+204.0,SR-2098,Steerer,,,,,,1.0,Current
+205.0,SS-2985,Seat Stays,,,,,,1.0,Current
+206.0,ST-9828,Seat Tube,,,,,,1.0,Current
+207.0,TO-2301,Top Tube,,,,,,1.0,Current
+208.0,TP-0923,Tension Pulley,,,,,,0.0,Current
+209.0,RC-0291,Rear Derailleur Cage,,Silver,,,,0.0,Current
+210.0,FR-R92B-58,"HL Road Frame - Black, 58",,Black,,58,2.24,1.0,Current
+211.0,FR-R92R-58,"HL Road Frame - Red, 58",,Red,,58,2.24,1.0,Current
+212.0,HL-U509-R,"Sport-100 Helmet, Red","Casco deportivo: 100, rojo",Red,33.6442,,,0.0,
+213.0,HL-U509-R,"Sport-100 Helmet, Red","Casco deportivo: 100, rojo",Red,33.6442,,,0.0,
+214.0,HL-U509-R,"Sport-100 Helmet, Red","Casco deportivo: 100, rojo",Red,34.99,,,0.0,Current
+215.0,HL-U509,"Sport-100 Helmet, Black","Casco deportivo: 100, negro",Black,33.6442,,,0.0,
+216.0,HL-U509,"Sport-100 Helmet, Black","Casco deportivo: 100, negro",Black,33.6442,,,0.0,
+217.0,HL-U509,"Sport-100 Helmet, Black","Casco deportivo: 100, negro",Black,34.99,,,0.0,Current
+218.0,SO-B909-M,"Mountain Bike Socks, M","Calcetines para bicicleta de montaña, M",White,9.5,M,,0.0,
+219.0,SO-B909-L,"Mountain Bike Socks, L","Calcetines para bicicleta de montaña, G",White,9.5,L,,0.0,
+220.0,HL-U509-B,"Sport-100 Helmet, Blue","Casco deportivo: 100, azul",Blue,33.6442,,,0.0,
+221.0,HL-U509-B,"Sport-100 Helmet, Blue","Casco deportivo: 100, azul",Blue,33.6442,,,0.0,
+222.0,HL-U509-B,"Sport-100 Helmet, Blue","Casco deportivo: 100, azul",Blue,34.99,,,0.0,Current
+223.0,CA-1098,AWC Logo Cap,,Multi,8.6442,,,0.0,
+224.0,CA-1098,AWC Logo Cap,,Multi,8.6442,,,0.0,
+225.0,CA-1098,AWC Logo Cap,,Multi,8.99,,,0.0,Current
+226.0,LJ-0192-S,"Long-Sleeve Logo Jersey, S","Jersey con logotipo de manga larga, P",Multi,48.0673,S,,0.0,
+227.0,LJ-0192-S,"Long-Sleeve Logo Jersey, S","Jersey con logotipo de manga larga, P",Multi,48.0673,S,,0.0,
+228.0,LJ-0192-S,"Long-Sleeve Logo Jersey, S","Jersey con logotipo de manga larga, P",Multi,49.99,S,,0.0,Current
+229.0,LJ-0192-M,"Long-Sleeve Logo Jersey, M","Jersey con logotipo de manga larga, M",Multi,48.0673,M,,0.0,
+230.0,LJ-0192-M,"Long-Sleeve Logo Jersey, M","Jersey con logotipo de manga larga, M",Multi,48.0673,M,,0.0,
+231.0,LJ-0192-M,"Long-Sleeve Logo Jersey, M","Jersey con logotipo de manga larga, M",Multi,49.99,M,,0.0,Current
+232.0,LJ-0192-L,"Long-Sleeve Logo Jersey, L","Jersey con logotipo de manga larga, G",Multi,48.0673,L,,0.0,
+233.0,LJ-0192-L,"Long-Sleeve Logo Jersey, L","Jersey con logotipo de manga larga, G",Multi,48.0673,L,,0.0,
+234.0,LJ-0192-L,"Long-Sleeve Logo Jersey, L","Jersey con logotipo de manga larga, G",Multi,49.99,L,,0.0,Current
+235.0,LJ-0192-X,"Long-Sleeve Logo Jersey, XL","Jersey con logotipo de manga larga, SG",Multi,48.0673,XL,,0.0,
+236.0,LJ-0192-X,"Long-Sleeve Logo Jersey, XL","Jersey con logotipo de manga larga, SG",Multi,48.0673,XL,,0.0,
+237.0,LJ-0192-X,"Long-Sleeve Logo Jersey, XL","Jersey con logotipo de manga larga, SG",Multi,49.99,XL,,0.0,Current
+238.0,FR-R92R-62,"HL Road Frame - Red, 62","Cuadro de carretera GA: rojo, 62",Red,1263.4598,62,2.3,1.0,
+239.0,FR-R92R-62,"HL Road Frame - Red, 62","Cuadro de carretera GA: rojo, 62",Red,1301.3636,62,2.3,1.0,
+240.0,FR-R92R-62,"HL Road Frame - Red, 62","Cuadro de carretera GA: rojo, 62",Red,1431.5,62,2.3,1.0,Current
+241.0,FR-R92R-44,"HL Road Frame - Red, 44","Cuadro de carretera GA: rojo, 44",Red,1263.4598,44,2.12,1.0,
+242.0,FR-R92R-44,"HL Road Frame - Red, 44","Cuadro de carretera GA: rojo, 44",Red,1301.3636,44,2.12,1.0,
+243.0,FR-R92R-44,"HL Road Frame - Red, 44","Cuadro de carretera GA: rojo, 44",Red,1431.5,44,2.12,1.0,Current
+244.0,FR-R92R-48,"HL Road Frame - Red, 48","Cuadro de carretera GA: rojo, 48",Red,1263.4598,48,2.16,1.0,
+245.0,FR-R92R-48,"HL Road Frame - Red, 48","Cuadro de carretera GA: rojo, 48",Red,1301.3636,48,2.16,1.0,
+246.0,FR-R92R-48,"HL Road Frame - Red, 48","Cuadro de carretera GA: rojo, 48",Red,1431.5,48,2.16,1.0,Current
+247.0,FR-R92R-52,"HL Road Frame - Red, 52","Cuadro de carretera GA: rojo, 52",Red,1263.4598,52,2.2,1.0,
+248.0,FR-R92R-52,"HL Road Frame - Red, 52","Cuadro de carretera GA: rojo, 52",Red,1301.3636,52,2.2,1.0,
+249.0,FR-R92R-52,"HL Road Frame - Red, 52","Cuadro de carretera GA: rojo, 52",Red,1431.5,52,2.2,1.0,Current
+250.0,FR-R92R-56,"HL Road Frame - Red, 56","Cuadro de carretera GA: rojo, 56",Red,1263.4598,56,2.24,1.0,
+251.0,FR-R92R-56,"HL Road Frame - Red, 56","Cuadro de carretera GA: rojo, 56",Red,1301.3636,56,2.24,1.0,
+252.0,FR-R92R-56,"HL Road Frame - Red, 56","Cuadro de carretera GA: rojo, 56",Red,1431.5,56,2.24,1.0,Current
+253.0,FR-R38B-58,"LL Road Frame - Black, 58","Cuadro de carretera GB: negro, 58",Black,297.6346,58,2.46,1.0,
+254.0,FR-R38B-58,"LL Road Frame - Black, 58","Cuadro de carretera GB: negro, 58",Black,306.5636,58,2.46,1.0,
+255.0,FR-R38B-58,"LL Road Frame - Black, 58","Cuadro de carretera GB: negro, 58",Black,337.22,58,2.46,1.0,Current
+256.0,FR-R38B-60,"LL Road Frame - Black, 60","Cuadro de carretera GB: negro, 60",Black,297.6346,60,2.48,1.0,
+257.0,FR-R38B-60,"LL Road Frame - Black, 60","Cuadro de carretera GB: negro, 60",Black,306.5636,60,2.48,1.0,
+258.0,FR-R38B-60,"LL Road Frame - Black, 60","Cuadro de carretera GB: negro, 60",Black,337.22,60,2.48,1.0,Current
+259.0,FR-R38B-62,"LL Road Frame - Black, 62","Cuadro de carretera GB: negro, 62",Black,297.6346,62,2.5,1.0,
+260.0,FR-R38B-62,"LL Road Frame - Black, 62","Cuadro de carretera GB: negro, 62",Black,306.5636,62,2.5,1.0,
+261.0,FR-R38B-62,"LL Road Frame - Black, 62","Cuadro de carretera GB: negro, 62",Black,337.22,62,2.5,1.0,Current
+262.0,FR-R38R-44,"LL Road Frame - Red, 44","Cuadro de carretera GB: rojo, 44",Red,306.5636,44,2.32,1.0,
+263.0,FR-R38R-44,"LL Road Frame - Red, 44","Cuadro de carretera GB: rojo, 44",Red,337.22,44,2.32,1.0,
+264.0,FR-R38R-48,"LL Road Frame - Red, 48","Cuadro de carretera GB: rojo, 48",Red,306.5636,48,2.36,1.0,
+265.0,FR-R38R-48,"LL Road Frame - Red, 48","Cuadro de carretera GB: rojo, 48",Red,337.22,48,2.36,1.0,
+266.0,FR-R38R-52,"LL Road Frame - Red, 52","Cuadro de carretera GB: rojo, 52",Red,306.5636,52,2.4,1.0,
+267.0,FR-R38R-52,"LL Road Frame - Red, 52","Cuadro de carretera GB: rojo, 52",Red,337.22,52,2.4,1.0,
+268.0,FR-R38R-58,"LL Road Frame - Red, 58","Cuadro de carretera GB: rojo, 58",Red,306.5636,58,2.46,1.0,
+269.0,FR-R38R-58,"LL Road Frame - Red, 58","Cuadro de carretera GB: rojo, 58",Red,337.22,58,2.46,1.0,
+270.0,FR-R38R-60,"LL Road Frame - Red, 60","Cuadro de carretera GB: rojo, 60",Red,306.5636,60,2.48,1.0,
+271.0,FR-R38R-60,"LL Road Frame - Red, 60","Cuadro de carretera GB: rojo, 60",Red,337.22,60,2.48,1.0,
+272.0,FR-R38R-62,"LL Road Frame - Red, 62","Cuadro de carretera GB: rojo, 62",Red,306.5636,62,2.5,1.0,
+273.0,FR-R38R-62,"LL Road Frame - Red, 62","Cuadro de carretera GB: rojo, 62",Red,337.22,62,2.5,1.0,
+274.0,FR-R72R-44,"ML Road Frame - Red, 44","Cuadro de carretera GM: rojo, 44",Red,594.83,44,2.22,1.0,
+275.0,FR-R72R-48,"ML Road Frame - Red, 48","Cuadro de carretera GM: rojo, 48",Red,594.83,48,2.26,1.0,
+276.0,FR-R72R-52,"ML Road Frame - Red, 52","Cuadro de carretera GM: rojo, 52",Red,594.83,52,2.3,1.0,
+277.0,FR-R72R-58,"ML Road Frame - Red, 58","Cuadro de carretera GM: rojo, 58",Red,594.83,58,2.36,1.0,
+278.0,FR-R72R-60,"ML Road Frame - Red, 60","Cuadro de carretera GM: rojo, 60",Red,594.83,60,2.38,1.0,
+279.0,FR-R38B-44,"LL Road Frame - Black, 44","Cuadro de carretera GB: negro, 44",Black,297.6346,44,2.32,1.0,
+280.0,FR-R38B-44,"LL Road Frame - Black, 44","Cuadro de carretera GB: negro, 44",Black,306.5636,44,2.32,1.0,
+281.0,FR-R38B-44,"LL Road Frame - Black, 44","Cuadro de carretera GB: negro, 44",Black,337.22,44,2.32,1.0,Current
+282.0,FR-R38B-48,"LL Road Frame - Black, 48","Cuadro de carretera GB: negro, 48",Black,297.6346,48,2.36,1.0,
+283.0,FR-R38B-48,"LL Road Frame - Black, 48","Cuadro de carretera GB: negro, 48",Black,306.5636,48,2.36,1.0,
+284.0,FR-R38B-48,"LL Road Frame - Black, 48","Cuadro de carretera GB: negro, 48",Black,337.22,48,2.36,1.0,Current
+285.0,FR-R38B-52,"LL Road Frame - Black, 52","Cuadro de carretera GB: negro, 52",Black,297.6346,52,2.4,1.0,
+286.0,FR-R38B-52,"LL Road Frame - Black, 52","Cuadro de carretera GB: negro, 52",Black,306.5636,52,2.4,1.0,
+287.0,FR-R38B-52,"LL Road Frame - Black, 52","Cuadro de carretera GB: negro, 52",Black,337.22,52,2.4,1.0,Current
+288.0,FR-M94S-42,"HL Mountain Frame - Silver, 42",,Silver,1204.3248,42,2.72,1.0,
+289.0,FR-M94S-42,"HL Mountain Frame - Silver, 42",,Silver,1240.4545,42,2.72,1.0,
+290.0,FR-M94S-42,"HL Mountain Frame - Silver, 42",,Silver,1364.5,42,2.72,1.0,Current
+291.0,FR-M94S-44,"HL Mountain Frame - Silver, 44",,Silver,1364.5,44,2.76,1.0,
+292.0,FR-M94S-52,"HL Mountain Frame - Silver, 48",,Silver,1364.5,48,2.8,1.0,
+293.0,FR-M94S-46,"HL Mountain Frame - Silver, 46",,Silver,1204.3248,46,2.84,1.0,
+294.0,FR-M94S-46,"HL Mountain Frame - Silver, 46",,Silver,1240.4545,46,2.84,1.0,
+295.0,FR-M94S-46,"HL Mountain Frame - Silver, 46",,Silver,1364.5,46,2.84,1.0,Current
+296.0,FR-M94B-42,"HL Mountain Frame - Black, 42",,Black,1191.1739,42,2.72,1.0,
+297.0,FR-M94B-42,"HL Mountain Frame - Black, 42",,Black,1226.9091,42,2.72,1.0,
+298.0,FR-M94B-42,"HL Mountain Frame - Black, 42",,Black,1349.6,42,2.72,1.0,Current
+299.0,FR-M94B-44,"HL Mountain Frame - Black, 44",,Black,1349.6,44,2.76,1.0,
+300.0,FR-M94B-48,"HL Mountain Frame - Black, 48",,Black,1349.6,48,2.8,1.0,
+301.0,FR-M94B-46,"HL Mountain Frame - Black, 46",,Black,1191.1739,46,2.84,1.0,
+302.0,FR-M94B-46,"HL Mountain Frame - Black, 46",,Black,1226.9091,46,2.84,1.0,
+303.0,FR-M94B-46,"HL Mountain Frame - Black, 46",,Black,1349.6,46,2.84,1.0,Current
+304.0,FR-M94B-38,"HL Mountain Frame - Black, 38",,Black,1191.1739,38,2.68,2.0,
+305.0,FR-M94B-38,"HL Mountain Frame - Black, 38",,Black,1226.9091,38,2.68,2.0,
+306.0,FR-M94B-38,"HL Mountain Frame - Black, 38",,Black,1349.6,38,2.68,2.0,Current
+307.0,FR-M94S-38,"HL Mountain Frame - Silver, 38",,Silver,1204.3248,38,2.68,2.0,
+308.0,FR-M94S-38,"HL Mountain Frame - Silver, 38",,Silver,1240.4545,38,2.68,2.0,
+309.0,FR-M94S-38,"HL Mountain Frame - Silver, 38",,Silver,1364.5,38,2.68,2.0,Current
+310.0,BK-R93R-62,"Road-150 Red, 62","Carretera: 150, roja, 62",Red,3578.27,62,15.0,4.0,
+311.0,BK-R93R-44,"Road-150 Red, 44","Carretera: 150, roja, 44",Red,3578.27,44,13.77,4.0,
+312.0,BK-R93R-48,"Road-150 Red, 48","Carretera: 150, roja, 48",Red,3578.27,48,14.13,4.0,
+313.0,BK-R93R-52,"Road-150 Red, 52","Carretera: 150, roja, 52",Red,3578.27,52,14.42,4.0,
+314.0,BK-R93R-56,"Road-150 Red, 56","Carretera: 150, roja, 56",Red,3578.27,56,14.68,4.0,
+315.0,BK-R68R-58,"Road-450 Red, 58","Carretera: 450, roja, 58",Red,1457.99,58,17.79,4.0,
+316.0,BK-R68R-60,"Road-450 Red, 60","Carretera: 450, roja, 60",Red,1457.99,60,17.9,4.0,
+317.0,BK-R68R-44,"Road-450 Red, 44","Carretera: 450, roja, 44",Red,1457.99,44,16.77,4.0,
+318.0,BK-R68R-48,"Road-450 Red, 48","Carretera: 450, roja, 48",Red,1457.99,48,17.13,4.0,
+319.0,BK-R68R-52,"Road-450 Red, 52","Carretera: 450, roja, 52",Red,1457.99,52,17.42,4.0,
+320.0,BK-R50R-58,"Road-650 Red, 58","Carretera: 650, roja, 58",Red,699.0982,58,19.79,4.0,
+321.0,BK-R50R-58,"Road-650 Red, 58","Carretera: 650, roja, 58",Red,782.99,58,19.79,4.0,
+322.0,BK-R50R-60,"Road-650 Red, 60","Carretera: 650, roja, 60",Red,699.0982,60,19.9,4.0,
+323.0,BK-R50R-60,"Road-650 Red, 60","Carretera: 650, roja, 60",Red,782.99,60,19.9,4.0,
+324.0,BK-R50R-62,"Road-650 Red, 62","Carretera: 650, roja, 62",Red,699.0982,62,20.0,4.0,
+325.0,BK-R50R-62,"Road-650 Red, 62","Carretera: 650, roja, 62",Red,782.99,62,20.0,4.0,
+326.0,BK-R50R-44,"Road-650 Red, 44","Carretera: 650, roja, 44",Red,699.0982,44,18.77,4.0,
+327.0,BK-R50R-44,"Road-650 Red, 44","Carretera: 650, roja, 44",Red,782.99,44,18.77,4.0,
+328.0,BK-R50R-48,"Road-650 Red, 48","Carretera: 650, roja, 48",Red,699.0982,48,19.13,4.0,
+329.0,BK-R50R-48,"Road-650 Red, 48","Carretera: 650, roja, 48",Red,782.99,48,19.13,4.0,
+330.0,BK-R50R-52,"Road-650 Red, 52","Carretera: 650, roja, 52",Red,699.0982,52,19.42,4.0,
+331.0,BK-R50R-52,"Road-650 Red, 52","Carretera: 650, roja, 52",Red,782.99,52,19.42,4.0,
+332.0,BK-R50B-58,"Road-650 Black, 58","Carretera: 650, negra, 58",Black,699.0982,58,19.79,4.0,
+333.0,BK-R50B-58,"Road-650 Black, 58","Carretera: 650, negra, 58",Black,782.99,58,19.79,4.0,
+334.0,BK-R50B-60,"Road-650 Black, 60","Carretera: 650, negra, 60",Black,699.0982,60,19.9,4.0,
+335.0,BK-R50B-60,"Road-650 Black, 60","Carretera: 650, negra, 60",Black,782.99,60,19.9,4.0,
+336.0,BK-R50B-62,"Road-650 Black, 62","Carretera: 650, negra, 62",Black,699.0982,62,20.0,4.0,
+337.0,BK-R50B-62,"Road-650 Black, 62","Carretera: 650, negra, 62",Black,782.99,62,20.0,4.0,
+338.0,BK-R50B-44,"Road-650 Black, 44","Carretera: 650, negra, 44",Black,699.0982,44,18.77,4.0,
+339.0,BK-R50B-44,"Road-650 Black, 44","Carretera: 650, negra, 44",Black,782.99,44,18.77,4.0,
+340.0,BK-R50B-48,"Road-650 Black, 48","Carretera: 650, negra, 48",Black,699.0982,48,19.13,4.0,
+341.0,BK-R50B-48,"Road-650 Black, 48","Carretera: 650, negra, 48",Black,782.99,48,19.13,4.0,
+342.0,BK-R50B-52,"Road-650 Black, 52","Carretera: 650, negra, 52",Black,699.0982,52,19.42,4.0,
+343.0,BK-R50B-52,"Road-650 Black, 52","Carretera: 650, negra, 52",Black,782.99,52,19.42,4.0,
+344.0,BK-M82S-38,"Mountain-100 Silver, 38","Montaña: 100, plateada, 38",Silver,3399.99,38,20.35,4.0,
+345.0,BK-M82S-42,"Mountain-100 Silver, 42","Montaña: 100, plateada, 42",Silver,3399.99,42,20.77,4.0,
+346.0,BK-M82S-44,"Mountain-100 Silver, 44","Montaña: 100, plateada, 44",Silver,3399.99,44,21.13,4.0,
+347.0,BK-M82S-48,"Mountain-100 Silver, 48","Montaña: 100, plateada, 48",Silver,3399.99,48,21.42,4.0,
+348.0,BK-M82B-38,"Mountain-100 Black, 38","Montaña: 100, negra, 38",Black,3374.99,38,20.35,4.0,
+349.0,BK-M82B-42,"Mountain-100 Black, 42","Montaña: 100, negra, 42",Black,3374.99,42,20.77,4.0,
+350.0,BK-M82B-44,"Mountain-100 Black, 44","Montaña: 100, negra, 44",Black,3374.99,44,21.13,4.0,
+351.0,BK-M82B-48,"Mountain-100 Black, 48","Montaña: 100, negra, 48",Black,3374.99,48,21.42,4.0,
+352.0,BK-M68S-38,"Mountain-200 Silver, 38","Montaña: 200, plateada, 38",Silver,2071.4196,38,23.35,4.0,
+353.0,BK-M68S-38,"Mountain-200 Silver, 38","Montaña: 200, plateada, 38",Silver,2319.99,38,23.35,4.0,Current
+354.0,BK-M68S-42,"Mountain-200 Silver, 42","Montaña: 200, plateada, 42",Silver,2071.4196,42,23.77,4.0,
+355.0,BK-M68S-42,"Mountain-200 Silver, 42","Montaña: 200, plateada, 42",Silver,2319.99,42,23.77,4.0,Current
+356.0,BK-M68S-46,"Mountain-200 Silver, 46","Montaña: 200, plateada, 46",Silver,2071.4196,46,24.13,4.0,
+357.0,BK-M68S-46,"Mountain-200 Silver, 46","Montaña: 200, plateada, 46",Silver,2319.99,46,24.13,4.0,Current
+358.0,BK-M68B-38,"Mountain-200 Black, 38","Montaña: 200, negra, 38",Black,2049.0982,38,23.35,4.0,
+359.0,BK-M68B-38,"Mountain-200 Black, 38","Montaña: 200, negra, 38",Black,2294.99,38,23.35,4.0,Current
+360.0,BK-M68B-42,"Mountain-200 Black, 42","Montaña: 200, negra, 42",Black,2049.0982,42,23.77,4.0,
+361.0,BK-M68B-42,"Mountain-200 Black, 42","Montaña: 200, negra, 42",Black,2294.99,42,23.77,4.0,Current
+362.0,BK-M68B-46,"Mountain-200 Black, 46","Montaña: 200, negra, 46",Black,2049.0982,46,24.13,4.0,
+363.0,BK-M68B-46,"Mountain-200 Black, 46","Montaña: 200, negra, 46",Black,2294.99,46,24.13,4.0,Current
+364.0,BK-M47B-38,"Mountain-300 Black, 38","Montaña: 300, negra, 38",Black,1079.99,38,25.35,4.0,
+365.0,BK-M47B-40,"Mountain-300 Black, 40","Montaña: 300, negra, 40",Black,1079.99,40,25.77,4.0,
+366.0,BK-M47B-44,"Mountain-300 Black, 44","Montaña: 300, negra, 44",Black,1079.99,44,26.13,4.0,
+367.0,BK-M47B-48,"Mountain-300 Black, 48","Montaña: 300, negra, 48",Black,1079.99,48,26.42,4.0,
+368.0,BK-R89R-44,"Road-250 Red, 44","Carretera: 250, roja, 44",Red,2443.35,44,14.77,4.0,
+369.0,BK-R89R-48,"Road-250 Red, 48","Carretera: 250, roja, 48",Red,2443.35,48,15.13,4.0,
+370.0,BK-R89R-52,"Road-250 Red, 52","Carretera: 250, roja, 52",Red,2443.35,52,15.42,4.0,
+371.0,BK-R89R-58,"Road-250 Red, 58","Carretera: 250, roja, 58",Red,2181.5625,58,15.79,4.0,
+372.0,BK-R89R-58,"Road-250 Red, 58","Carretera: 250, roja, 58",Red,2443.35,58,15.79,4.0,Current
+373.0,BK-R89B-44,"Road-250 Black, 44","Carretera: 250, negra, 44",Black,2181.5625,44,14.77,4.0,
+374.0,BK-R89B-44,"Road-250 Black, 44","Carretera: 250, negra, 44",Black,2443.35,44,14.77,4.0,Current
+375.0,BK-R89B-48,"Road-250 Black, 48","Carretera: 250, negra, 48",Black,2181.5625,48,15.13,4.0,
+376.0,BK-R89B-48,"Road-250 Black, 48","Carretera: 250, negra, 48",Black,2443.35,48,15.13,4.0,Current
+377.0,BK-R89B-52,"Road-250 Black, 52","Carretera: 250, negra, 52",Black,2181.5625,52,15.42,4.0,
+378.0,BK-R89B-52,"Road-250 Black, 52","Carretera: 250, negra, 52",Black,2443.35,52,15.42,4.0,Current
+379.0,BK-R89B-58,"Road-250 Black, 58","Carretera: 250, negra, 58",Black,2181.5625,58,15.68,4.0,
+380.0,BK-R89B-58,"Road-250 Black, 58","Carretera: 250, negra, 58",Black,2443.35,58,15.68,4.0,Current
+381.0,BK-R64Y-38,"Road-550-W Yellow, 38","Carretera: 550 para mujer, amarilla, 38",Yellow,1000.4375,38,17.35,4.0,
+382.0,BK-R64Y-38,"Road-550-W Yellow, 38","Carretera: 550 para mujer, amarilla, 38",Yellow,1120.49,38,17.35,4.0,Current
+383.0,BK-R64Y-40,"Road-550-W Yellow, 40","Carretera: 550 para mujer, amarilla, 40",Yellow,1000.4375,40,17.77,4.0,
+384.0,BK-R64Y-40,"Road-550-W Yellow, 40","Carretera: 550 para mujer, amarilla, 40",Yellow,1120.49,40,17.77,4.0,Current
+385.0,BK-R64Y-42,"Road-550-W Yellow, 42","Carretera: 550 para mujer, amarilla, 42",Yellow,1000.4375,42,18.13,4.0,
+386.0,BK-R64Y-42,"Road-550-W Yellow, 42","Carretera: 550 para mujer, amarilla, 42",Yellow,1120.49,42,18.13,4.0,Current
+387.0,BK-R64Y-44,"Road-550-W Yellow, 44","Carretera: 550 para mujer, amarilla, 44",Yellow,1000.4375,44,18.42,4.0,
+388.0,BK-R64Y-44,"Road-550-W Yellow, 44","Carretera: 550 para mujer, amarilla, 44",Yellow,1120.49,44,18.42,4.0,Current
+389.0,BK-R64Y-48,"Road-550-W Yellow, 48","Carretera: 550 para mujer, amarilla, 48",Yellow,1000.4375,48,18.68,4.0,
+390.0,BK-R64Y-48,"Road-550-W Yellow, 48","Carretera: 550 para mujer, amarilla, 48",Yellow,1120.49,48,18.68,4.0,Current
+391.0,FK-1639,LL Fork,Horquilla GB,,148.22,,,1.0,
+392.0,FK-5136,ML Fork,Horquilla GM,,175.49,,,1.0,
+393.0,FK-9939,HL Fork,Horquilla GA,,229.49,,,1.0,
+394.0,HS-0296,LL Headset,Dirección GB,,34.2,,,1.0,
+395.0,HS-2451,ML Headset,Dirección GM,,102.29,,,1.0,
+396.0,HS-3479,HL Headset,Dirección GA,,124.73,,,1.0,
+397.0,HB-M243,LL Mountain Handlebars,,,40.4909,,,1.0,
+398.0,HB-M243,LL Mountain Handlebars,,,44.54,,,1.0,Current
+399.0,HB-M763,ML Mountain Handlebars,,,56.2909,,,1.0,
+400.0,HB-M763,ML Mountain Handlebars,,,61.92,,,1.0,Current
+401.0,HB-M918,HL Mountain Handlebars,,,109.3364,,,1.0,
+402.0,HB-M918,HL Mountain Handlebars,,,120.27,,,1.0,Current
+403.0,HB-R504,LL Road Handlebars,Manillar de carretera GB,,40.4909,,,1.0,
+404.0,HB-R504,LL Road Handlebars,Manillar de carretera GB,,44.54,,,1.0,Current
+405.0,HB-R720,ML Road Handlebars,Manillar de carretera GM,,56.2909,,,1.0,
+406.0,HB-R720,ML Road Handlebars,Manillar de carretera GM,,61.92,,,1.0,Current
+407.0,HB-R956,HL Road Handlebars,Manillar de carretera GA,,109.3364,,,1.0,
+408.0,HB-R956,HL Road Handlebars,Manillar de carretera GA,,120.27,,,1.0,Current
+409.0,FR-M63B-38,"ML Mountain Frame - Black, 38",,Black,348.76,38,2.73,2.0,
+410.0,FW-M423,LL Mountain Front Wheel,,Black,60.745,,,1.0,
+411.0,FW-M762,ML Mountain Front Wheel,,Black,209.025,,,1.0,
+412.0,FW-M928,HL Mountain Front Wheel,,Black,300.215,,,1.0,
+413.0,FW-R623,LL Road Front Wheel,Rueda de carretera delantera GB,Black,85.565,,900.0,1.0,
+414.0,FW-R762,ML Road Front Wheel,Rueda de carretera delantera GM,Black,248.385,,850.0,1.0,
+415.0,FW-R820,HL Road Front Wheel,Rueda de carretera delantera GA,Black,330.06,,650.0,1.0,
+416.0,FW-T905,Touring Front Wheel,Rueda de paseo delantera,Black,218.01,,,1.0,
+417.0,FR-R72Y-38,"ML Road Frame-W - Yellow, 38","Cuadro de carretera para mujer GM: amarillo, 38",Yellow,540.7545,38,2.18,2.0,
+418.0,FR-R72Y-38,"ML Road Frame-W - Yellow, 38","Cuadro de carretera para mujer GM: amarillo, 38",Yellow,594.83,38,2.18,2.0,Current
+419.0,RW-M423,LL Mountain Rear Wheel,,Black,87.745,,,1.0,
+420.0,RW-M762,ML Mountain Rear Wheel,,Black,236.025,,,1.0,
+421.0,RW-M928,HL Mountain Rear Wheel,,Black,327.215,,,1.0,
+422.0,RW-R623,LL Road Rear Wheel,Rueda de carretera trasera GB,Black,112.565,,1050.0,1.0,
+423.0,RW-R762,ML Road Rear Wheel,Rueda de carretera trasera GM,Black,275.385,,1000.0,1.0,
+424.0,RW-R820,HL Road Rear Wheel,Rueda de carretera trasera GA,Black,357.06,,890.0,1.0,
+425.0,RW-T905,Touring Rear Wheel,Rueda de paseo trasera,Black,245.01,,,1.0,
+426.0,FR-M63B-40,"ML Mountain Frame - Black, 40",,Black,348.76,40,2.77,1.0,
+427.0,FR-M63B-44,"ML Mountain Frame - Black, 44",,Black,348.76,44,2.81,1.0,
+428.0,FR-M63B-48,"ML Mountain Frame - Black, 48",,Black,348.76,48,2.85,1.0,
+429.0,FR-R72Y-40,"ML Road Frame-W - Yellow, 40","Cuadro de carretera para mujer GM: amarillo, 40",Yellow,540.7545,40,2.22,1.0,
+430.0,FR-R72Y-40,"ML Road Frame-W - Yellow, 40","Cuadro de carretera para mujer GM: amarillo, 40",Yellow,594.83,40,2.22,1.0,Current
+431.0,FR-R72Y-42,"ML Road Frame-W - Yellow, 42","Cuadro de carretera para mujer GM: amarillo, 42",Yellow,540.7545,42,2.26,1.0,
+432.0,FR-R72Y-42,"ML Road Frame-W - Yellow, 42","Cuadro de carretera para mujer GM: amarillo, 42",Yellow,594.83,42,2.26,1.0,Current
+433.0,FR-R72Y-44,"ML Road Frame-W - Yellow, 44","Cuadro de carretera para mujer GM: amarillo, 44",Yellow,540.7545,44,2.3,1.0,
+434.0,FR-R72Y-44,"ML Road Frame-W - Yellow, 44","Cuadro de carretera para mujer GM: amarillo, 44",Yellow,594.83,44,2.3,1.0,Current
+435.0,FR-R72Y-48,"ML Road Frame-W - Yellow, 48","Cuadro de carretera para mujer GM: amarillo, 48",Yellow,540.7545,48,2.34,1.0,
+436.0,FR-R72Y-48,"ML Road Frame-W - Yellow, 48","Cuadro de carretera para mujer GM: amarillo, 48",Yellow,594.83,48,2.34,1.0,Current
+437.0,FR-R92B-62,"HL Road Frame - Black, 62","Cuadro de carretera GA: negro, 62",Black,1301.3636,62,2.3,1.0,
+438.0,FR-R92B-62,"HL Road Frame - Black, 62","Cuadro de carretera GA: negro, 62",Black,1431.5,62,2.3,1.0,Current
+439.0,FR-R92B-44,"HL Road Frame - Black, 44","Cuadro de carretera GA: negro, 44",Black,1301.3636,44,2.12,1.0,
+440.0,FR-R92B-44,"HL Road Frame - Black, 44","Cuadro de carretera GA: negro, 44",Black,1431.5,44,2.12,1.0,Current
+441.0,FR-R92B-48,"HL Road Frame - Black, 48","Cuadro de carretera GA: negro, 48",Black,1301.3636,48,2.16,1.0,
+442.0,FR-R92B-48,"HL Road Frame - Black, 48","Cuadro de carretera GA: negro, 48",Black,1431.5,48,2.16,1.0,Current
+443.0,FR-R92B-52,"HL Road Frame - Black, 52","Cuadro de carretera GA: negro, 52",Black,1301.3636,52,2.2,1.0,
+444.0,FR-R92B-52,"HL Road Frame - Black, 52","Cuadro de carretera GA: negro, 52",Black,1431.5,52,2.2,1.0,Current
+445.0,SH-M897-S,"Men's Sports Shorts, S","Pantalones cortos de deporte para hombre, P",Black,59.99,S,,0.0,
+446.0,PA-T100,"Touring-Panniers, Large","Cesta de paseo, grande",Grey,125.0,,,0.0,
+447.0,LO-C100,Cable Lock,Cable antirrobo,,25.0,,,0.0,
+448.0,PU-0452,Minipump,,,19.99,,,0.0,
+449.0,PU-M044,Mountain Pump,Bomba de montaña,,24.99,,,0.0,
+450.0,LT-T990,Taillights - Battery-Powered,,,13.99,,,0.0,
+451.0,LT-H902,Headlights - Dual-Beam,Luces: doble haz,,34.99,,,0.0,
+452.0,LT-H903,Headlights - Weatherproof,Luces: resistentes al agua,,44.99,,,0.0,
+453.0,SH-M897-M,"Men's Sports Shorts, M","Pantalones cortos de deporte para hombre, M",Black,59.99,M,,0.0,
+454.0,SH-M897-L,"Men's Sports Shorts, L","Pantalones cortos de deporte para hombre, G",Black,59.99,L,,0.0,
+455.0,SH-M897-X,"Men's Sports Shorts, XL","Pantalones cortos de deporte para hombre, SG",Black,59.99,XL,,0.0,
+456.0,TG-W091-S,"Women's Tights, S","Mallas para mujer, P",Black,74.99,S,,0.0,
+457.0,TG-W091-M,"Women's Tights, M","Mallas para mujer, M",Black,74.99,M,,0.0,
+458.0,TG-W091-L,"Women's Tights, L","Mallas para mujer, G",Black,74.99,L,,0.0,
+459.0,SB-M891-S,"Men's Bib-Shorts, S",,Multi,89.99,S,,0.0,
+460.0,SB-M891-M,"Men's Bib-Shorts, M",,Multi,89.99,M,,0.0,
+461.0,SB-M891-L,"Men's Bib-Shorts, L",,Multi,89.99,L,,0.0,
+462.0,GL-H102-S,"Half-Finger Gloves, S",,Black,23.5481,S,,0.0,
+463.0,GL-H102-S,"Half-Finger Gloves, S",,Black,24.49,S,,0.0,Current
+464.0,GL-H102-M,"Half-Finger Gloves, M",,Black,23.5481,M,,0.0,
+465.0,GL-H102-M,"Half-Finger Gloves, M",,Black,24.49,M,,0.0,Current
+466.0,GL-H102-L,"Half-Finger Gloves, L",,Black,23.5481,L,,0.0,
+467.0,GL-H102-L,"Half-Finger Gloves, L",,Black,24.49,L,,0.0,Current
+468.0,GL-F110-S,"Full-Finger Gloves, S","Guantes completos, P",Black,37.99,S,,0.0,
+469.0,GL-F110-M,"Full-Finger Gloves, M","Guantes completos, M",Black,37.99,M,,0.0,
+470.0,GL-F110-L,"Full-Finger Gloves, L","Guantes completos, G",Black,37.99,L,,0.0,
+471.0,VE-C304-S,"Classic Vest, S","Camiseta clásica, P",Blue,63.5,S,,0.0,Current
+472.0,VE-C304-M,"Classic Vest, M","Camiseta clásica, M",Blue,63.5,M,,0.0,Current
+473.0,VE-C304-L,"Classic Vest, L","Camiseta clásica, G",Blue,63.5,L,,0.0,Current
+474.0,SH-W890-S,"Women's Mountain Shorts, S",,Black,69.99,S,,0.0,Current
+475.0,SH-W890-M,"Women's Mountain Shorts, M",,Black,69.99,M,,0.0,Current
+476.0,SH-W890-L,"Women's Mountain Shorts, L",,Black,69.99,L,,0.0,Current
+477.0,WB-H098,Water Bottle - 30 oz.,,,4.99,,,0.0,Current
+478.0,BC-M005,Mountain Bottle Cage,Portabotellas de montaña,,9.99,,,0.0,Current
+479.0,BC-R205,Road Bottle Cage,Portabotellas de carretera,,8.99,,,0.0,Current
+480.0,PK-7098,Patch Kit/8 Patches,,,2.29,,,0.0,Current
+481.0,SO-R809-M,"Racing Socks, M","Calcetines para carreras, M",White,8.99,M,,0.0,Current
+482.0,SO-R809-L,"Racing Socks, L","Calcetines para carreras, G",White,8.99,L,,0.0,Current
+483.0,RA-H123,Hitch Rack - 4-Bike,,,120.0,,,0.0,Current
+484.0,CL-9009,Bike Wash - Dissolver,Lavado de bicicletas: disolvente,,7.95,,,0.0,Current
+485.0,FE-6654,Fender Set - Mountain,Conjunto de guardabarros: montaña,,21.98,,,0.0,Current
+486.0,ST-1401,All-Purpose Bike Stand,Soporte multiusos para bicicletas,,159.0,,,0.0,Current
+487.0,HY-1023-70,Hydration Pack - 70 oz.,,Silver,54.99,70,,0.0,Current
+488.0,SJ-0194-S,"Short-Sleeve Classic Jersey, S","Jersey clásico de manga corta, P",Yellow,53.99,S,,0.0,Current
+489.0,SJ-0194-M,"Short-Sleeve Classic Jersey, M","Jersey clásico de manga corta, M",Yellow,53.99,M,,0.0,Current
+490.0,SJ-0194-L,"Short-Sleeve Classic Jersey, L","Jersey clásico de manga corta, G",Yellow,53.99,L,,0.0,Current
+491.0,SJ-0194-X,"Short-Sleeve Classic Jersey, XL","Jersey clásico de manga corta, SG",Yellow,53.99,XL,,0.0,Current
+492.0,FR-T98Y-60,"HL Touring Frame - Yellow, 60","Cuadro de paseo GA: amarillo, 60",Yellow,1003.91,60,3.08,1.0,Current
+493.0,FR-T67Y-62,"LL Touring Frame - Yellow, 62","Cuadro de paseo GB: amarillo, 62",Yellow,333.42,62,3.2,1.0,Current
+494.0,FR-T98Y-46,"HL Touring Frame - Yellow, 46","Cuadro de paseo GA: amarillo, 46",Yellow,1003.91,46,2.96,1.0,Current
+495.0,FR-T98Y-50,"HL Touring Frame - Yellow, 50","Cuadro de paseo GA: amarillo, 50",Yellow,1003.91,50,3.0,1.0,Current
+496.0,FR-T98Y-54,"HL Touring Frame - Yellow, 54","Cuadro de paseo GA: amarillo, 54",Yellow,1003.91,54,3.04,1.0,Current
+497.0,FR-T98U-46,"HL Touring Frame - Blue, 46","Cuadro de paseo GA: azul, 46",Blue,1003.91,46,2.96,1.0,Current
+498.0,FR-T98U-50,"HL Touring Frame - Blue, 50","Cuadro de paseo GA: azul, 50",Blue,1003.91,50,3.0,1.0,Current
+499.0,FR-T98U-54,"HL Touring Frame - Blue, 54","Cuadro de paseo GA: azul, 54",Blue,1003.91,54,3.04,1.0,Current
+500.0,FR-T98U-60,"HL Touring Frame - Blue, 60","Cuadro de paseo GA: azul, 60",Blue,1003.91,60,3.08,1.0,Current
+501.0,RD-2308,Rear Derailleur,Desviador trasero,Silver,121.46,,215.0,1.0,Current
+502.0,FR-T67U-50,"LL Touring Frame - Blue, 50","Cuadro de paseo GB: azul, 50",Blue,333.42,50,3.1,1.0,Current
+503.0,FR-T67U-54,"LL Touring Frame - Blue, 54","Cuadro de paseo GB: azul, 54",Blue,333.42,54,3.14,1.0,Current
+504.0,FR-T67U-58,"LL Touring Frame - Blue, 58","Cuadro de paseo GB: azul, 58",Blue,333.42,58,3.16,1.0,Current
+505.0,FR-T67U-62,"LL Touring Frame - Blue, 62","Cuadro de paseo GB: azul, 62",Blue,333.42,62,3.2,1.0,Current
+506.0,FR-T67Y-44,"LL Touring Frame - Yellow, 44","Cuadro de paseo GB: amarillo, 44",Yellow,333.42,44,3.02,1.0,Current
+507.0,FR-T67Y-50,"LL Touring Frame - Yellow, 50","Cuadro de paseo GB: amarillo, 50",Yellow,333.42,50,3.1,1.0,Current
+508.0,FR-T67Y-54,"LL Touring Frame - Yellow, 54","Cuadro de paseo GB: amarillo, 54",Yellow,333.42,54,3.14,1.0,Current
+509.0,FR-T67Y-58,"LL Touring Frame - Yellow, 58","Cuadro de paseo GB: amarillo, 58",Yellow,333.42,58,3.16,1.0,Current
+510.0,FR-T67U-44,"LL Touring Frame - Blue, 44","Cuadro de paseo GB: azul, 44",Blue,333.42,44,3.02,1.0,Current
+511.0,FR-M63S-40,"ML Mountain Frame-W - Silver, 40",,Silver,364.09,40,2.77,1.0,Current
+512.0,FR-M63S-42,"ML Mountain Frame-W - Silver, 42",,Silver,364.09,42,2.81,1.0,Current
+513.0,FR-M63S-46,"ML Mountain Frame-W - Silver, 46",,Silver,364.09,46,2.85,1.0,Current
+514.0,RB-9231,Rear Brakes,Frenos traseros,Silver,106.5,,317.0,1.0,Current
+515.0,SE-M236,LL Mountain Seat/Saddle,,,27.12,,,1.0,Current
+516.0,SE-M798,ML Mountain Seat/Saddle,,,39.14,,,1.0,Current
+517.0,SE-M940,HL Mountain Seat/Saddle,,,52.64,,,1.0,Current
+518.0,SE-R581,LL Road Seat/Saddle,Sillín/asiento de carretera GB,,27.12,,,1.0,Current
+519.0,SE-R908,ML Road Seat/Saddle,Sillín/asiento de carretera GM,,39.14,,,1.0,Current
+520.0,SE-R995,HL Road Seat/Saddle,Sillín/asiento de carretera GA,,52.64,,,1.0,Current
+521.0,SE-T312,LL Touring Seat/Saddle,Sillín/asiento de paseo GB,,27.12,,,1.0,Current
+522.0,SE-T762,ML Touring Seat/Saddle,Sillín/asiento de paseo GM,,39.14,,,1.0,Current
+523.0,SE-T924,HL Touring Seat/Saddle,Sillín/asiento de paseo GA,,52.64,,,1.0,Current
+524.0,FR-M21S-42,"LL Mountain Frame - Silver, 42",,Silver,264.05,42,2.92,1.0,Current
+525.0,FR-M21S-44,"LL Mountain Frame - Silver, 44",,Silver,264.05,44,2.96,1.0,Current
+526.0,FR-M21S-48,"LL Mountain Frame - Silver, 48",,Silver,264.05,48,3.0,1.0,Current
+527.0,FR-M21S-52,"LL Mountain Frame - Silver, 52",,Silver,264.05,52,3.04,1.0,Current
+528.0,TT-M928,Mountain Tire Tube,Cubierta para cámara de montaña,,4.99,,,0.0,Current
+529.0,TT-R982,Road Tire Tube,Cubierta para cámara de carretera,,3.99,,,0.0,Current
+530.0,TT-T092,Touring Tire Tube,Cubierta para cámara de paseo,,4.99,,,0.0,Current
+531.0,FR-M21B-42,"LL Mountain Frame - Black, 42",,Black,249.79,42,2.92,1.0,Current
+532.0,FR-M21B-44,"LL Mountain Frame - Black, 44",,Black,249.79,44,2.96,1.0,Current
+533.0,FR-M21B-48,"LL Mountain Frame - Black, 48",,Black,249.79,48,3.0,1.0,Current
+534.0,FR-M21B-52,"LL Mountain Frame - Black, 52",,Black,249.79,52,3.04,1.0,Current
+535.0,TI-M267,LL Mountain Tire,Cubierta de montaña GB,,24.99,,,0.0,Current
+536.0,TI-M602,ML Mountain Tire,Cubierta de montaña GM,,29.99,,,0.0,Current
+537.0,TI-M823,HL Mountain Tire,Cubierta de montaña GA,,35.0,,,0.0,Current
+538.0,TI-R092,LL Road Tire,Cubierta de carretera GB,,21.49,,,0.0,Current
+539.0,TI-R628,ML Road Tire,Cubierta de carretera GM,,24.99,,,0.0,Current
+540.0,TI-R982,HL Road Tire,Cubierta de carretera GA,,32.6,,,0.0,Current
+541.0,TI-T723,Touring Tire,Cubierta de paseo,,28.99,,,0.0,Current
+542.0,PD-M282,LL Mountain Pedal,Pedal de montaña GB,Silver/Black,40.49,,218.0,1.0,Current
+543.0,PD-M340,ML Mountain Pedal,Pedal de montaña GM,Silver/Black,62.09,,215.0,1.0,Current
+544.0,PD-M562,HL Mountain Pedal,Pedal de montaña GA,Silver/Black,80.99,,185.0,1.0,Current
+545.0,PD-R347,LL Road Pedal,Pedal de carretera GB,Silver/Black,40.49,,189.0,1.0,Current
+546.0,PD-R563,ML Road Pedal,Pedal de carretera GM,Silver/Black,62.09,,168.0,1.0,Current
+547.0,PD-R853,HL Road Pedal,Pedal de carretera GA,Silver/Black,80.99,,149.0,1.0,Current
+548.0,PD-T852,Touring Pedal,Pedal de paseo,Silver/Black,80.99,,,1.0,Current
+549.0,FR-M63S-38,"ML Mountain Frame-W - Silver, 38",,Silver,364.09,38,2.73,2.0,Current
+550.0,FR-M21B-40,"LL Mountain Frame - Black, 40",,Black,249.79,40,2.88,2.0,Current
+551.0,FR-M21S-40,"LL Mountain Frame - Silver, 40",,Silver,264.05,40,2.88,2.0,Current
+552.0,FD-2342,Front Derailleur,Desviador delantero,Silver,91.49,,88.0,1.0,Current
+553.0,HB-T721,LL Touring Handlebars,Manillar de paseo GB,,46.09,,,1.0,Current
+554.0,HB-T928,HL Touring Handlebars,Manillar de paseo GA,,91.57,,,1.0,Current
+555.0,FB-9873,Front Brakes,Frenos delanteros,Silver,106.5,,317.0,1.0,Current
+556.0,CS-4759,LL Crankset,Bielas GB,Black,175.49,,600.0,1.0,Current
+557.0,CS-6583,ML Crankset,Bielas GM,Black,256.49,,635.0,1.0,Current
+558.0,CS-9183,HL Crankset,Bielas GA,Black,404.99,,575.0,1.0,Current
+559.0,CH-0234,Chain,Cadena,Silver,20.24,,,1.0,Current
+560.0,BK-T44U-60,"Touring-2000 Blue, 60","Paseo: 2000, azul, 60",Blue,1214.85,60,27.9,4.0,Current
+561.0,BK-T79Y-46,"Touring-1000 Yellow, 46","Paseo: 1000, amarilla, 46",Yellow,2384.07,46,25.13,4.0,Current
+562.0,BK-T79Y-50,"Touring-1000 Yellow, 50","Paseo: 1000, amarilla, 50",Yellow,2384.07,50,25.42,4.0,Current
+563.0,BK-T79Y-54,"Touring-1000 Yellow, 54","Paseo: 1000, amarilla, 54",Yellow,2384.07,54,25.68,4.0,Current
+564.0,BK-T79Y-60,"Touring-1000 Yellow, 60","Paseo: 1000, amarilla, 60",Yellow,2384.07,60,25.9,4.0,Current
+565.0,BK-T18U-54,"Touring-3000 Blue, 54","Paseo: 3000, azul, 54",Blue,742.35,54,29.68,4.0,Current
+566.0,BK-T18U-58,"Touring-3000 Blue, 58","Paseo: 3000, azul, 58",Blue,742.35,58,29.9,4.0,Current
+567.0,BK-T18U-62,"Touring-3000 Blue, 62","Paseo: 3000, azul, 62",Blue,742.35,62,30.0,4.0,Current
+568.0,BK-T18Y-44,"Touring-3000 Yellow, 44","Paseo: 3000, amarilla, 44",Yellow,742.35,44,28.77,4.0,Current
+569.0,BK-T18Y-50,"Touring-3000 Yellow, 50","Paseo: 3000, amarilla, 50",Yellow,742.35,50,29.13,4.0,Current
+570.0,BK-T18Y-54,"Touring-3000 Yellow, 54","Paseo: 3000, amarilla, 54",Yellow,742.35,54,29.42,4.0,Current
+571.0,BK-T18Y-58,"Touring-3000 Yellow, 58","Paseo: 3000, amarilla, 58",Yellow,742.35,58,29.79,4.0,Current
+572.0,BK-T18Y-62,"Touring-3000 Yellow, 62","Paseo: 3000, amarilla, 62",Yellow,742.35,62,30.0,4.0,Current
+573.0,BK-T79U-46,"Touring-1000 Blue, 46","Paseo: 1000, azul, 46",Blue,2384.07,46,25.13,4.0,Current
+574.0,BK-T79U-50,"Touring-1000 Blue, 50","Paseo: 1000, azul, 50",Blue,2384.07,50,25.42,4.0,Current
+575.0,BK-T79U-54,"Touring-1000 Blue, 54","Paseo: 1000, azul, 54",Blue,2384.07,54,25.68,4.0,Current
+576.0,BK-T79U-60,"Touring-1000 Blue, 60","Paseo: 1000, azul, 60",Blue,2384.07,60,25.9,4.0,Current
+577.0,BK-T44U-46,"Touring-2000 Blue, 46","Paseo: 2000, azul, 46",Blue,1214.85,46,27.13,4.0,Current
+578.0,BK-T44U-50,"Touring-2000 Blue, 50","Paseo: 2000, azul, 50",Blue,1214.85,50,27.42,4.0,Current
+579.0,BK-T44U-54,"Touring-2000 Blue, 54","Paseo: 2000, azul, 54",Blue,1214.85,54,27.68,4.0,Current
+580.0,BK-R79Y-40,"Road-350-W Yellow, 40","Carretera: 350 para mujer, amarilla, 40",Yellow,1700.99,40,15.35,4.0,Current
+581.0,BK-R79Y-42,"Road-350-W Yellow, 42","Carretera: 350 para mujer, amarilla, 42",Yellow,1700.99,42,15.77,4.0,Current
+582.0,BK-R79Y-44,"Road-350-W Yellow, 44","Carretera: 350 para mujer, amarilla, 44",Yellow,1700.99,44,16.13,4.0,Current
+583.0,BK-R79Y-48,"Road-350-W Yellow, 48","Carretera: 350 para mujer, amarilla, 48",Yellow,1700.99,48,16.42,4.0,Current
+584.0,BK-R19B-58,"Road-750 Black, 58","Carretera: 750, negra, 58",Black,539.99,58,20.79,4.0,Current
+585.0,BK-T18U-44,"Touring-3000 Blue, 44","Paseo: 3000, azul, 44",Blue,742.35,44,28.77,4.0,Current
+586.0,BK-T18U-50,"Touring-3000 Blue, 50","Paseo: 3000, azul, 50",Blue,742.35,50,29.13,4.0,Current
+587.0,BK-M38S-38,"Mountain-400-W Silver, 38","Montaña: 400 para mujer, plateada, 38",Silver,769.49,38,26.35,4.0,Current
+588.0,BK-M38S-40,"Mountain-400-W Silver, 40","Montaña: 400 para mujer, plateada, 40",Silver,769.49,40,26.77,4.0,Current
+589.0,BK-M38S-42,"Mountain-400-W Silver, 42","Montaña: 400 para mujer, plateada, 42",Silver,769.49,42,27.13,4.0,Current
+590.0,BK-M38S-46,"Mountain-400-W Silver, 46","Montaña: 400 para mujer, plateada, 46",Silver,769.49,46,27.42,4.0,Current
+591.0,BK-M18S-40,"Mountain-500 Silver, 40","Montaña: 500, plateada, 40",Silver,564.99,40,27.35,4.0,Current
+592.0,BK-M18S-42,"Mountain-500 Silver, 42","Montaña: 500, plateada, 42",Silver,564.99,42,27.77,4.0,Current
+593.0,BK-M18S-44,"Mountain-500 Silver, 44","Montaña: 500, plateada, 44",Silver,564.99,44,28.13,4.0,Current
+594.0,BK-M18S-48,"Mountain-500 Silver, 48","Montaña: 500, plateada, 48",Silver,564.99,48,28.42,4.0,Current
+595.0,BK-M18S-52,"Mountain-500 Silver, 52","Montaña: 500, plateada, 52",Silver,564.99,52,28.68,4.0,Current
+596.0,BK-M18B-40,"Mountain-500 Black, 40","Montaña: 500, negra, 40",Black,539.99,40,27.35,4.0,Current
+597.0,BK-M18B-42,"Mountain-500 Black, 42","Montaña: 500, negra, 42",Black,539.99,42,27.77,4.0,Current
+598.0,BK-M18B-44,"Mountain-500 Black, 44","Montaña: 500, negra, 44",Black,539.99,44,28.13,4.0,Current
+599.0,BK-M18B-48,"Mountain-500 Black, 48","Montaña: 500, negra, 48",Black,539.99,48,28.42,4.0,Current
+600.0,BK-M18B-52,"Mountain-500 Black, 52","Montaña: 500, negra, 52",Black,539.99,52,28.68,4.0,Current
+601.0,BB-7421,LL Bottom Bracket,Eje de pedalier GB,,53.99,,223.0,1.0,Current
+602.0,BB-8107,ML Bottom Bracket,Eje de pedalier GM,,101.24,,168.0,1.0,Current
+603.0,BB-9108,HL Bottom Bracket,Eje de pedalier GA,,121.49,,170.0,1.0,Current
+604.0,BK-R19B-44,"Road-750 Black, 44","Carretera: 750, negra, 44",Black,539.99,44,19.77,4.0,Current
+605.0,BK-R19B-48,"Road-750 Black, 48","Carretera: 750, negra, 48",Black,539.99,48,20.13,4.0,Current
+606.0,BK-R19B-52,"Road-750 Black, 52","Carretera: 750, negra, 52",Black,539.99,52,20.42,4.0,Current
